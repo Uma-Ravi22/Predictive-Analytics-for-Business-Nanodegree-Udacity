@@ -30,7 +30,7 @@ The linear regression model provides an equation that you can use to predict dia
 
 Price = -5,269 + 8,413 x Carat + 158.1 x Cut + 454 x Clarity
 
-###Step 1 – Understand the data: There are two datasets.
+### Step 1 – Understand the data: There are two datasets.
 
 - diamonds.csv contains the data used to build the regression model.
 - new_diamonds.csv contains the data for the diamonds the company would like to purchase.
