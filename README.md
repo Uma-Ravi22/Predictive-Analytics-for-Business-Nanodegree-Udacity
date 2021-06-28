@@ -48,24 +48,6 @@ Step 2 – Calculate the predicted price for diamond: For each diamond, plug in 
 
 Step 3 – Make a recommendation: Now that you have the predicted price for each diamond, it’s time to calculate the bid price for the whole set. Note: The diamond price that the model predicts represents the final retail price the consumer will pay. The company generally purchases diamonds from distributors at 70% of that price, so your recommended bid price should represent that.
 
-## Project Submission
-To complete this project, you will be submitting a file in pdf format that contains the answers to the following questions across three steps.
-
-### Step 1 - Understanding the Model:
-
-According to the linear model provided, if a diamond is 1 carat heavier than another with the same cut and clarity, how much more would the retail price of the heavier diamond be? Why?
-
-If you were interested in a 1.5 carat diamond with a Very Good cut (represented by a 3 in the model) and a VS2 clarity rating (represented by a 5 in the model), what retail price would the model predict for the diamond?
-
-### Step 2 - Visualize the Data: Create two scatter plots. If you're not sure what a scatter plot is, see here.
-
-Plot 1 - Plot the data for the diamonds in the database, with carat on the x-axis and price on the y-axis.
-Plot 2 - Plot the data for the diamonds for which you are predicting prices with carat on the x-axis and predicted price on the y-axis.
-
-Note: You can also plot both sets of data on the same chart in different colors.
-What strikes you about this comparison? After seeing this plot, do you feel confident in the model’s ability to predict prices?
-
-### Step 3 - The Recommendation: What bid do you recommend for the jewelry company? Please explain how you arrived at that number.
 <HR>
 
  ## Project 2: Predicting Catalog Demand.
@@ -124,7 +106,7 @@ NAICS data on the most current sales of all competitor stores where total sales 
 A partially parsed data file that can be used for population numbers.
 Demographic data (Households with individuals under 18, Land Area, Population Density, and Total Families) for each city and county in the state of Wyoming. For people who are unfamiliar with the US city system, a state contains counties and counties contains one or more cities.
  
-
+<HR>
 # Part 3: Classification Models
 Classification models are a powerful tool for business analyst. In this course, you learn more about binary and non-binary classification models 
 and how to use them to drive business insights.
@@ -146,6 +128,7 @@ You have the following information to work with:
 
 - Data on all past applications
 - The list of customers that need to be processed in the next few days
+ <HR>
 
 # Part 4: A/B Testing
 Helping businesses make the best decisions is an essential part of Business Analysis. Planning and executing the analysis of an AB test allow 
@@ -173,10 +156,11 @@ You have been able to gather three data files to use for your analysis:
 - A listing of all Round Roasters stores
 - A listing of the 10 stores (5 in each market) that were used as test markets.
 
+  <HR>
 # Part 5: Time Series Forecasting
 Time Series Forecasting is a powerful analytical tool. In this course, you learn how ETS and ARIMA models are used to forecast data and 
 how they deal with trends and seasonality. These skills will be evaluated in the final project.
- 
+<HR>
 # Part 6: Segmentation and Clustering
 Segmentation and Clustering are effective methods for finding patterns in your data. In this course, you learn how to prepare data to be 
 clustered appropriately and interpret results.
