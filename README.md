@@ -66,7 +66,7 @@ Note: You can also plot both sets of data on the same chart in different colors.
 What strikes you about this comparison? After seeing this plot, do you feel confident in the model’s ability to predict prices?
 
 ### Step 3 - The Recommendation: What bid do you recommend for the jewelry company? Please explain how you arrived at that number.
-
+<HR>
 
 # Part 2: Data Wrangling
 Data Wrangling is at the core of all data activity. In this course you learn how to work with different data types,dirty data, and outliers. 
